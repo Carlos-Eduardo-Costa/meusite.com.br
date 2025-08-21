@@ -1,0 +1,33 @@
+<?php
+//echo $_GET['nome'];
+$valor1 = $_GET['valor1'];
+$valor2 = $_GET['valor2'];
+$sinal = $_GET['sinal'];
+$resultado = $valor1.$sinal.$valor2. "=";
+echo $resultado;
+if ($sinal == "+"){
+        $soma = $valor1 + $valor2;  
+        echo $soma;      
+        echo "<p> O resultado da soma acima é: $soma </p>";
+    }
+    
+    if ($sinal == "-"){
+        $subtracao = $valor1 - $valor2;   
+        echo "$subtracao";      
+        echo "<p> O resultado da sutração acima é: $subtracao </p>";
+    }
+
+        if ($sinal == "*"){
+        $multiplicacao = $valor1*$valor2; 
+        echo "$multiplicacao";        
+        echo "<p> O resultado da multiplicação acima é: $multiplicacao </p>";
+    }
+
+        if ($sinal == ":"){
+        $divisao = $valor1/$valor2;  
+        echo "$divisao";       
+        echo "<p> O resultado da divisão acima é: $divisao </p>";
+    }
+
+
+?>
