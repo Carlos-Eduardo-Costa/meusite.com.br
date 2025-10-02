@@ -1,0 +1,66 @@
+{
+    "alunos": [
+        {
+            "nome": "carlos",
+            "email": "carlos.e.costa53@aluno.senai.br",
+            "matricula": ""
+        },
+        {
+            "nome": "carlos",
+            "email": "carlos.e.costa53@aluno.senai.br",
+            "matricula": "40028922"
+        },
+        {
+            "nome": "carlos",
+            "email": "carlos.e.costa53@aluno.senai.br",
+            "matricula": "40028922"
+        },
+        {
+            "nome": "carlos",
+            "email": "carlos.e.costa53@aluno.senai.br",
+            "matricula": ""
+        }
+    ],
+    "professores": [
+        {
+            "nome": "carlos",
+            "email": "carlos.e.costa53@aluno.senai.br",
+            "disciplina": "matematica"
+        },
+        {
+            "nome": "carlos",
+            "email": "carlos.e.costa53@aluno.senai.br",
+            "disciplina": "matematica"
+        },
+        {
+            "nome": "carlos",
+            "email": "carlos.e.costa53@aluno.senai.br",
+            "disciplina": "matematica"
+        },
+        {
+            "nome": "carlos",
+            "email": "carlos.e.costa53@aluno.senai.br",
+            "disciplina": "matematica"
+        },
+        {
+            "nome": "carlos",
+            "email": "carlos.e.costa53@aluno.senai.br",
+            "disciplina": "matematica"
+        },
+        {
+            "nome": "carlos",
+            "email": "carlos.e.costa53@aluno.senai.br",
+            "disciplina": "matematica"
+        },
+        {
+            "nome": "carlos",
+            "email": "carlos.e.costa53@aluno.senai.br",
+            "disciplina": "matematica"
+        },
+        {
+            "nome": "carlos",
+            "email": "carlos.e.costa53@aluno.senai.br",
+            "disciplina": "matematica"
+        }
+    ]
+}
